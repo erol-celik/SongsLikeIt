@@ -1,0 +1,12 @@
+# Sanal ortamı görmezden gel
+venv/
+
+# Veri setlerini görmezden gel (GitHub'a sığmaz)
+data/
+*.wav
+*.mp3
+
+# Gereksiz Python dosyaları
+__pycache__/
+*.ipynb_checkpoints
+.DS_Store
